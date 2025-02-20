@@ -11,3 +11,5 @@ M
 tests/policy-contract.test.ts,1/b/1b25450c06658957a2a16caa64e9276bc10f8a38
 W
 'contracts/pool-management-contract.clar,0/6/0641c472ebe93c6f52ba6168d18f6ba1636848a0
+V
+&tests/pool-management-contract.test.ts,e/f/efe0bd2c03c5dd6419c998301eeae6a5ffdd2231
