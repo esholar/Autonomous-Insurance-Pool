@@ -13,3 +13,5 @@ W
 'contracts/pool-management-contract.clar,0/6/0641c472ebe93c6f52ba6168d18f6ba1636848a0
 V
 &tests/pool-management-contract.test.ts,e/f/efe0bd2c03c5dd6419c998301eeae6a5ffdd2231
+R
+"contracts/governance-contract.clar,d/d/dddd5749827f11c0a5f9afc47051216d87cbb68c
