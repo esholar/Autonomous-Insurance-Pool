@@ -9,3 +9,5 @@ N
 contracts/policy-contract.clar,f/f/ff8483fbd8099fe74b05c79746208645f6a815b2
 M
 tests/policy-contract.test.ts,1/b/1b25450c06658957a2a16caa64e9276bc10f8a38
+W
+'contracts/pool-management-contract.clar,0/6/0641c472ebe93c6f52ba6168d18f6ba1636848a0
