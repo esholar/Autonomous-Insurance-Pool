@@ -7,3 +7,5 @@ V
 &tests/risk-assessment-contract.test.ts,4/c/4c804faf54c1e28f8571eb0224dc5948324c3c2f
 N
 contracts/policy-contract.clar,f/f/ff8483fbd8099fe74b05c79746208645f6a815b2
+M
+tests/policy-contract.test.ts,1/b/1b25450c06658957a2a16caa64e9276bc10f8a38
