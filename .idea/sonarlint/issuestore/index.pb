@@ -5,3 +5,5 @@ W
 'contracts/risk-assessment-contract.clar,8/f/8fcc82ed6cfcf972cb30de9a45ddbd2761d7cebb
 V
 &tests/risk-assessment-contract.test.ts,4/c/4c804faf54c1e28f8571eb0224dc5948324c3c2f
+N
+contracts/policy-contract.clar,f/f/ff8483fbd8099fe74b05c79746208645f6a815b2
